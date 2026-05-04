@@ -1,1 +1,1 @@
-# academic-portfolio-jakiasultana
+# jakiasultana.academic.portfolio
